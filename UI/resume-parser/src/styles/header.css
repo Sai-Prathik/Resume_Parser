@@ -1,0 +1,27 @@
+.flex-display{
+ display: flex;
+}
+
+.header-wrp{ 
+    justify-content: space-between; 
+    padding: 1% 2% 1% 2%;
+    background-color: #131722;
+    color: #D1D4DC;
+    border-bottom:solid #00b0f0; 
+    border-radius: 15px;
+    
+}
+
+.right-wrp{ 
+justify-content: space-between;
+font-size: larger; 
+cursor: pointer; 
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title{
+    cursor: pointer;
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

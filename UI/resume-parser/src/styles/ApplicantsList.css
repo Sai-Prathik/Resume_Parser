@@ -1,0 +1,13 @@
+.List-Wrp{
+    color: white; 
+    max-width:88%;
+    margin-left: 6%;
+    padding: 1%;
+    border-radius: 5px; 
+    max-height: 70%;
+    box-shadow: -5px 5px 20px black;
+    background-color: #041136;
+    overflow-y: scroll;
+}::-webkit-scrollbar{
+    color: #041136;
+}

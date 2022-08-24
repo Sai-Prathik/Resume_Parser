@@ -1,0 +1,42 @@
+body{
+    background-color: #131722;
+}
+
+.Content-wrp{
+    color: white;  
+}
+
+.upld-crd-wrp{
+    display: flex;
+    justify-content: center;  
+    padding: 1%;
+}
+
+.upld-crd{ 
+    min-width: 90%;
+    color: black;
+    background-color: #041136;
+    border-radius: 5px; 
+    color: white; 
+    min-height: 7vh;
+    box-shadow:  -5px 5px 20px black;
+    display: flex;
+    justify-content: space-between;
+    padding: 1%;
+}
+
+.searchBar{
+    outline: none;
+    min-width: 40%;
+    border-radius: 5px;
+}
+
+.col1{
+    display: flex;
+    justify-content: space-between;
+}
+
+ 
+
+
+

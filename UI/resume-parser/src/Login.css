@@ -1,0 +1,72 @@
+.auth-wrap{
+    display: flex;
+    flex-direction: row; 
+    min-height: 100vh;
+
+}
+
+#col1{
+    min-width: 75%;
+    min-height: 100%;  
+    background-color: rgb(223, 117, 12);
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    box-shadow: 10px 0 10px black;
+}
+
+ .form-wrp{
+    margin-top: 5%;
+ }
+
+.login-wrap{   
+    width: 40%; 
+    padding: 3%;
+    border-radius: 15px;
+    background-color: white;
+    box-shadow: 10px 10px 20px black;
+    border: solid rgb(0, 9, 43);
+}
+
+.input-field{
+    outline: none;   
+    min-width: 50%;
+    margin-bottom: 5%; 
+    border-radius: 5px;
+    padding: 2%;
+    color: black;
+    font-size: larger;
+    font-weight: 3px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}::placeholder{
+    font-size: larger; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.auth-btn{
+    width: 100%;
+    padding: 2%;
+    font-size: larger;
+    font-weight: bold;
+}
+
+#col2{ 
+    width: 25%;
+    display: flex; 
+    align-items: center;
+    background-color: rgb(0, 6, 29);
+}
+.redirect{
+    width: 100%;  
+    text-align: center;
+    color: white;
+    font-size: x-large;
+}
+
+.redirectLink{
+    font-size: larger;
+    font-weight: bold;
+
+}
